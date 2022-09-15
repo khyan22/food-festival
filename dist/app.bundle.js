@@ -33,9 +33,9 @@ eval("/*!\n  * Bootstrap v4.3.1 (https://getbootstrap.com/)\n  * Copyright 2011-
 /*!***********************************!*\
   !*** ./assets/img/food-table.jpg ***!
   \***********************************/
-/***/ ((module) => {
+/***/ (() => {
 
-eval("module.exports = \"assets/img/food-table.jpg\";\n\n//# sourceURL=webpack://food-festival/./assets/img/food-table.jpg?");
+eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-loader/index.js):\\nReferenceError: primordials is not defined\\n    at fs.js:47:5\\n    at req_ (C:\\\\Users\\\\khyan\\\\desktop\\\\projects\\\\food-festival\\\\node_modules\\\\natives\\\\index.js:143:24)\\n    at Object.req [as require] (C:\\\\Users\\\\khyan\\\\desktop\\\\projects\\\\food-festival\\\\node_modules\\\\natives\\\\index.js:55:10)\\n    at Object.<anonymous> (C:\\\\Users\\\\khyan\\\\desktop\\\\projects\\\\food-festival\\\\node_modules\\\\vinyl-fs\\\\node_modules\\\\graceful-fs\\\\fs.js:1:37)\\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\\n    at Module.load (node:internal/modules/cjs/loader:981:32)\\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\\n    at Module.require (node:internal/modules/cjs/loader:1005:19)\\n    at require (node:internal/modules/cjs/helpers:102:18)\");\n\n//# sourceURL=webpack://food-festival/./assets/img/food-table.jpg?");
 
 /***/ }),
 
@@ -43,9 +43,9 @@ eval("module.exports = \"assets/img/food-table.jpg\";\n\n//# sourceURL=webpack:/
 /*!******************************!*\
   !*** ./assets/img/grill.jpg ***!
   \******************************/
-/***/ ((module) => {
+/***/ (() => {
 
-eval("module.exports = \"assets/img/grill.jpg\";\n\n//# sourceURL=webpack://food-festival/./assets/img/grill.jpg?");
+eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-loader/index.js):\\nReferenceError: primordials is not defined\\n    at fs.js:47:5\\n    at req_ (C:\\\\Users\\\\khyan\\\\desktop\\\\projects\\\\food-festival\\\\node_modules\\\\natives\\\\index.js:143:24)\\n    at Object.req [as require] (C:\\\\Users\\\\khyan\\\\desktop\\\\projects\\\\food-festival\\\\node_modules\\\\natives\\\\index.js:55:10)\\n    at Object.<anonymous> (C:\\\\Users\\\\khyan\\\\desktop\\\\projects\\\\food-festival\\\\node_modules\\\\vinyl-fs\\\\node_modules\\\\graceful-fs\\\\fs.js:1:37)\\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\\n    at Module.load (node:internal/modules/cjs/loader:981:32)\\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\\n    at Module.require (node:internal/modules/cjs/loader:1005:19)\\n    at require (node:internal/modules/cjs/helpers:102:18)\");\n\n//# sourceURL=webpack://food-festival/./assets/img/grill.jpg?");
 
 /***/ }),
 
